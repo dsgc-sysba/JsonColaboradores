@@ -1,4 +1,5 @@
-"cat_colaboradores": [
+{
+   "cat_colaboradores": [
       {
          "Numero": "1",
          "Nombre": "Martín de Jesus Vlades Campos",
@@ -30,3 +31,4 @@
          "estatus": "activo"
       }
    ],
+}
