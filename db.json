@@ -30,5 +30,22 @@
          "Correo": "chuy@sysba.com",
          "estatus": "activo"
       }
+   ],
+   "tareaUsuarios":
+   [
+      {
+         "id":"1",
+         "Nombre": "Martín",
+         "apellidoP": "valadez",
+         "apellidoM": "campos",
+         "edad": "30"
+      },
+      {
+            "id":"2",
+            "Nombre": "javis",
+            "apellidoP": "perez",
+            "apellidoM": "x",
+            "edad": "30"
+       }
    ]
 }
